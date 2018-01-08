@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Git;
+using GitLib_Al;
 
 namespace Git_V
 {
@@ -14,6 +15,9 @@ namespace Git_V
         {
             Class1 class1 = new Class1();
             Console.WriteLine(class1.Method(10));
+            ClassAlex classAlex = new ClassAlex();
+            Console.WriteLine(classAlex.GetGreetings());
+            Console.ReadKey();
         }
     }
 }

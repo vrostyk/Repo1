@@ -1,0 +1,10 @@
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\bin\Release\Git_V.exe.config
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\bin\Release\Git_V.exe
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\bin\Release\Git_V.pdb
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\bin\Release\Git.dll
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\bin\Release\GitLib_Al.dll
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\bin\Release\Git.pdb
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\obj\Release\Git_V.csprojResolveAssemblyReference.cache
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\obj\Release\Git_V.csproj.CoreCompileInputs.cache
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\obj\Release\Git_V.exe
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git_V\obj\Release\Git_V.pdb

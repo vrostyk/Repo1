@@ -1,0 +1,6 @@
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git\bin\Release\Git.dll
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git\bin\Release\Git.pdb
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git\obj\Release\Git.csprojResolveAssemblyReference.cache
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git\obj\Release\Git.csproj.CoreCompileInputs.cache
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git\obj\Release\Git.dll
+D:\OnLine\Itstep_Developer\ProjectManagement\HUB\Ross\Repo1\Git\obj\Release\Git.pdb

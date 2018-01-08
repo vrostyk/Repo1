@@ -1,0 +1,6 @@
+C:\Users\Ross\source\repos\Git\Git\bin\Debug\Git.dll
+C:\Users\Ross\source\repos\Git\Git\bin\Debug\Git.pdb
+C:\Users\Ross\source\repos\Git\Git\obj\Debug\Git.csprojResolveAssemblyReference.cache
+C:\Users\Ross\source\repos\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+C:\Users\Ross\source\repos\Git\Git\obj\Debug\Git.dll
+C:\Users\Ross\source\repos\Git\Git\obj\Debug\Git.pdb
